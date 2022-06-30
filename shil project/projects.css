@@ -1,0 +1,30 @@
+body{
+background-color:#7fa1a3;
+background-attachment: fixed;
+}
+.bg-image{
+background-image:url("ocean.jpg");
+min-height:600px;
+background-size:cover;
+opacity:0.9;
+  background-attachment: fixed;
+}
+.insta{
+color:white;
+}
+#profile{
+margin-top:-400px;
+}
+hr{
+border-width:3px;
+margin-top:0;
+}
+.diy{
+display:block;
+border:2px solid #b3672d;
+border-radius:5px;
+width:140px;
+}
+#expertise .card{
+border-top:3px solid black;
+}
